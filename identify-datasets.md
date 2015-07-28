@@ -11,13 +11,13 @@ The lead will share the following prompts with department POCs, and will collect
 _____
 > To determine which datasets to submit, please consider the following questions:
 
->* #####Do you have any of the datasets listed in the “Open Data Quick Start Datasets” tool kit?
-* #####Of the data that you regularly create, maintain, or manage, what is directly related to citywide goals or priorities?
-* ##### Which datasets are related to your department’s mission? Consider your departments strategic plan, any existing goals or performance objectives, your department’s website, and any regular reports.
-* #####What data is regularly or frequently requested through Right to Know requests, FOIA requests, or 311 requests?
-* #####What data is used in performance-based budgeting or evaluation (if applicable)?
-* #####What data is used to compile reports for a legislative body (city council or cabinet meeting)?
-* #####What data is used for reports on federal, state, or nonprofit grants?
-* #####What data is used to record a measurement or transaction, and/or provides information on government services, initiatives or resources?
-* #####Are there datasets that drive lists, tables, graphs, charts, maps, or other visualizations that your department uses?
+>* Do you have any of the datasets listed in the “Open Data Quick Start Datasets” tool kit?
+* Of the data that you regularly create, maintain, or manage, what is directly related to citywide goals or priorities?
+* Which datasets are related to your department’s mission? Consider your departments strategic plan, any existing goals or performance objectives, your department’s website, and any regular reports.
+* What data is regularly or frequently requested through Right to Know requests, FOIA requests, or 311 requests?
+* What data is used in performance-based budgeting or evaluation (if applicable)?
+* What data is used to compile reports for a legislative body (city council or cabinet meeting)?
+* What data is used for reports on federal, state, or nonprofit grants?
+* What data is used to record a measurement or transaction, and/or provides information on government services, initiatives or resources?
+* Are there datasets that drive lists, tables, graphs, charts, maps, or other visualizations that your department uses?
 ------
