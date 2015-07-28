@@ -12,6 +12,7 @@ Use the Dataset Priority tool to rank each dataset according to its value. The q
 Could availability of the data create specific economic opportunity?
 * Does the data have a direct impact on the public? (e.g., hospital infection rates, food establishment inspection results, etc.).
 * Is the data of timely interest? (related to current events, new initiatives, etc.)
+
 ____
 >Dataset Priority Questionnaire: Quality
 * Does the data have depth and breadth of years of coverage?
