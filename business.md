@@ -6,7 +6,7 @@
 | *Inspections:* Inspections of licensed businesses such as restaurants, manufacturers, etc. |
 | *Licenses:* Businesses that have been issued licenses to operate in the jurisdiction |
 | *Registrations:* Entities registered to do business, but that may not be incorporated by the state |
-| *Violations:* Violations issued to businesses |
+| *Violations:*   Violations issued to businesses |
 | *Inspections:* Restaurant inspections, violations, grades | 
 | **Potential Stakeholders** |
 | Economic and community development departments |
