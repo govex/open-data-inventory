@@ -8,3 +8,6 @@ Stakeholders may include:
 * Potential and current residents
 * Higher education institutions
 * Coalitions
+* Legal groups
+* Economic and community development departments
+* Businesses
