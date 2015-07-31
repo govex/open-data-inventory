@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Identify Datasets](identify-datasets.md)
-* [Determine Value, Quality, Availability](value-quality.md)
+* [Determine Release Schedule](release.md)
 * [Sample Datasets Index](sample-datasets.md)
 * [Business](business.md)
 * [Education](education.md)
