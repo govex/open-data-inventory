@@ -1,8 +1,8 @@
 #Education
 
-| Name | Description |
-| --- | --- |
-| *Attendance* | Average percentage of days that students are present for school, excluding absences and suspensions; Absenteeism; Chronic absenteeism |
+| Name | Description | Example |
+| --- | --- | --- |
+| *Attendance* | Average percentage of days that students are present for school, excluding absences and suspensions; Absenteeism; Chronic absenteeism | [MD Open Data Report Card](http://www.mdreportcard.org/Entity.aspx?K=30AAAA) |
 | *College readiness* |  Test scores indicate that a high school graduate or GED recipient has the English and math skills to qualify for college coursework with no remedial training |
 | *College attendance* | |
 | *Enrollment* | Number of students enrolled for each grade, school, and district |
@@ -12,15 +12,3 @@
 | *Third grade reading:* | |
 | *Head Start enrollment* | Number of children enrolled for any period of the year in any of the Head Start programs, by age group. |
 | *Pre-K enrollment* | Number of children enrolled for any period of the year in any of the pre-k programs, by age group. |
-
-
-| **Potential Stakeholders** |
-| Policymakers
-| Educators |
-| Education advocates |
-| Related nonprofits |
-| Potential residents |
-| Higher education institutions |
-| [Literacy coalitions](http://gradelevelreading.net/) |
-| **Examples**|
-[MD Open Data Report Card](http://www.mdreportcard.org/Entity.aspx?K=30AAAA)
