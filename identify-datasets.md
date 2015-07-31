@@ -1,13 +1,10 @@
 # Work with Departments to Identify Datasets
 
-Work with each department to identify a point of contact (POC). 
-Identify an analyst or researcher, preferably within the Mayor’s office, who will interact with departments and facilitate this process.
-The Mayor’s office lead should meet with department POCs to share information on open data concepts, joint data sharing, and sensitive/confidential data awareness, as well as to understand any data challenges. The initial meeting may be held with all departments POCs, or individually.
+Before you begin down the path of conducting a data inventory, ensure that leaders from each department understand the importance of uncovering their data assets. Setting up individudal meetings with department heads and deputy mayors can provide an opportunity to share information on open data concepts, joint data sharing, and sensitive/confidential data awarenes, while gathering feedback and concerns about the process and getting a sense of how easy it may be to work with each agency. The data inventory process can feel daunting, so consider starting with a few targeted agencies based on their understanding and enthusiasm for the project, as well as relevance to strategic priorities or performance management goals.
 
+Once you have a sense of buy-in, ask each department to designate a point of contact (POC). You may wish to identify a lead analyst or researcher, preferably within the Mayor’s office, to interact with departments and facilitate this process. The lead will share the following prompts with department POCs, and will collect and catalog responses using the template found in Appendix A.
 
-During the initial meeting, consider establishing a timeframe by which the initial inventory must be started and completed.
-The lead will share the following prompts with department POCs, and will collect and catalog responses using the GovEx tool.
-
+The set of questions below is meant to help agencies think about the data they use in their day to day jobs, and the information that is critical to their processes, so that they can list the datasets that they use.
 _____
 > To determine which datasets to submit, please consider the following questions:
 
