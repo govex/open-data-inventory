@@ -15,3 +15,5 @@ Stakeholders may include:
 * Candidates
 * Political watchdogs
 * Relevant local, state and federal agencies
+* Contractors
+* Current and potential developers
