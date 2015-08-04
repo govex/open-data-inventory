@@ -9,7 +9,7 @@ Philadelphia has built public engagement into its [open data inventory website](
 
 > Phila / Office of Innovation and Technology / Open Data / Data Inventory / [Fire](http://cityofphiladelphia.github.io/slash-data/inventory/?_ga=1.247933893.332098523.1435580102#inventory/?view_42_filters=%5B%7B%22field%22%3A%22field_216%22%2C%22operator%22%3A%22is%22%2C%22value%22%3A%22541b05369a3db5a01b00b512%22%7D%5D&view_42_page=1)
 
-| Title | Contents | Comments | Details |
+> | Title | Contents | Comments | Details |
 | --- | --- | --- | --- |
 | Fire Incident Reports |	Any time there is a fire, information is gathered relating to the event and the people involved, including the incident number, when the incident occurred, if any died in the fire, extent of the fire, location of the property, if any injuries occurred.	| 10 |	[add comment](http://cityofphiladelphia.github.io/slash-data/inventory/?_ga=1.247933893.332098523.1435580102#inventory/details/5580683979117156666b3619/) |
 | Emergency 911 Calls	| This data set contains informaiton related to the calls received by the Fire Communications 911 unit. These entries are timestamped with when the call was received, when a unit was dispatched, when the unit arrived on the scene, and has additional information regarding what happened while the incident was being mitigated. |	5	| [add comment](http://cityofphiladelphia.github.io/slash-data/inventory/?_ga=1.247933893.332098523.1435580102#inventory/details/5580683979117156666b3619/) |
@@ -22,7 +22,7 @@ Philadelphia has built public engagement into its [open data inventory website](
 
 > Phila / Office of Innovation and Technology / Open Data / Data Inventory / [Parks and Recreation](http://cityofphiladelphia.github.io/slash-data/inventory/?_ga=1.247933893.332098523.1435580102)
 
-| Title | Contents | Comments | Details |
+> | Title | Contents | Comments | Details |
 | --- | --- | --- | --- |
 | Recurring Schedules	| Schedules of all recurring activities (programs + permits). Based on start and end date and recurring weekly schedules, i.e. day and times.	| 1	| [add comment](http://cityofphiladelphia.github.io/slash-data/inventory/?_ga=1.247933893.332098523.1435580102#inventory/details/5542531a91444e0f702144cb/) |
 | Sports & Athletics | Annual Program Sheet	Updated annually with all programs for the year. Last version Fall 2013.	| 1	| [add comment](http://cityofphiladelphia.github.io/slash-data/inventory/?_ga=1.247933893.332098523.1435580102#inventory/details/5542531d91444e0f702144d2/) |
