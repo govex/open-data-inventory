@@ -32,7 +32,7 @@ ____
 ____
 
 ####A note about sensitivity
-Philadelphia's inventory lists all datasets that it uncovers, even those that will never be released due to sensitive content such as Personally Identifiable Information or security concerns. Datasets that are determined to contain sensitive information are listed with the following note: *"Some data sets in this inventory cannot be published as open data. Others could be published after sensitive data is removed (such as personal information)."*
+Philadelphia's inventory lists all datasets that it uncovers, even those that will never be released due to sensitive content such as Personally Identifiable Information or security concerns. Philadelphia lists the following notes with datasets that contain sensitive information: *"Some data sets in this inventory cannot be published as open data. Others could be published after sensitive data is removed (such as personal information)."*
 _____
 
 **Step 1.** [Identify Datasets](identify-datasets.md)
