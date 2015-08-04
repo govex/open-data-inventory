@@ -11,6 +11,7 @@
 * [Environment](environment.md)
 * [Fiscal](fiscal.md)
 * [Health](health.md)
+* [Operations](operations.md)
 * [Properties](properties.md)
 * [Public Safety](public-safety.md)
 * [Regulation](regulation.md)
