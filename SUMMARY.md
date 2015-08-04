@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Identify Datasets](identify-datasets.md)
 * [Determine Release Schedule](release.md)
-* [Sample Datasets Index](sample-datasets.md)
+* [Sample Datasets Index](index.md)
 * [Business](business.md)
 * [Education](education.md)
 * [Elections](elections.md)
