@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introduction to Dataset Inventory Guidelines](README.md)
 * [Identify Datasets](identify-datasets.md)
 * [Determine Release Schedule](release.md)
 * [Sample Datasets Index](index.md)
