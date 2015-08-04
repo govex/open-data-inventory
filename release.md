@@ -11,3 +11,6 @@ Stakeholders may include:
 * Legal groups
 * Economic and community development departments
 * Businesses
+* Elected officials
+* Candidates
+* Political watchdogs
