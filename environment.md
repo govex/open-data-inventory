@@ -1,20 +1,9 @@
 # Environment
 
-| Description |
-| --- |
-| *Green Space:* Parks, urban forests, green parking, urban agriculture, preservation areas, protected lands
-| *Food Environment:* Food deserts, healthy food availability, fast food density, tree coverage, trees planted
-| **Potential Stakeholders** |
-| Environmentalists
-| Related sustainability and environmental nonprofits
-| Open space, sustainability departments, planning and zoning departments
-| Environmental protection agencies
-| Related nutrition and hunger nonprofits
-| Businesses related to the supply chain
-| Educational institutions
-| U.S. Department of Agriculture 
-| Departments of education
-| **Examples** |
-[Raleigh Open GIS Data](http://data.ral.opendata.arcgis.com/datasets?q=environmental&sort_by=relevance)
+| Name | Description | Example |
+| --- | --- | --- |
+| *Green Space* | Parks, urban forests, green parking, urban agriculture, preservation areas, protected lands | [Raleigh Open GIS Data](http://data.ral.opendata.arcgis.com/datasets?q=environmental&sort_by=relevance) |
+| *Food Environment* | Food deserts, healthy food availability, fast food density, tree coverage, trees planted | [MD iMAP: Maryland's Mapping & GIS Data Portal](http://data.imap.maryland.gov/datasets?q=Environment) |
 
-[MD iMAP: Maryland's Mapping & GIS Data Portal](http://data.imap.maryland.gov/datasets?q=Environment)
+
+
