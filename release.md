@@ -5,6 +5,8 @@ Once you have your list of datasets, determine the schedule for releasing datase
 
 Philadelphia has built public engagement into its [open data inventory website](http://cityofphiladelphia.github.io/slash-data/inventory/?_ga=1.247933893.332098523.1435580102), which is a detailed list of every dataset that exists wihin city government. Beside each dataset is a section in which the public can add comments. The data services team takes input to each department, which helps them to make informed prioritization decisions on which datasets to release first.
 
+As you work with departmental contacts, keep in mind their roles and relationship with the data. For example, department heads and commissioners have the ability to connect with staff at multiple levels and make decisions, but may not be as familiar with the details of the data as those who work with it every day. Department staff who are very familiar with the data may have a different interpretation of data that contains sensitive information than department heads, deputies, or commissioners with decision making power. Call upon the expertise of all staff by creating a governance group, or even a less formal committee, with multiple levels of department staff to review the data.
+
 > ####Example: Philadelphia
 
 > Phila / Office of Innovation and Technology / Open Data / Data Inventory / [Fire](http://cityofphiladelphia.github.io/slash-data/inventory/?_ga=1.247933893.332098523.1435580102#inventory/?view_42_filters=%5B%7B%22field%22%3A%22field_216%22%2C%22operator%22%3A%22is%22%2C%22value%22%3A%22541b05369a3db5a01b00b512%22%7D%5D&view_42_page=1)
