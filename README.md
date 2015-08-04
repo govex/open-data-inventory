@@ -1,5 +1,3 @@
-# Open-Data-Inventory
-
 Dataset Inventory Guidelines
 =======
 
