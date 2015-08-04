@@ -1,4 +1,5 @@
-# Step 1. Identify Datasets
+Step 1. Identify Datasets
+====
 
 ####Before you begin...
 Ensure that leaders from each department understand the importance of uncovering their data assets. Setting up individual meetings with department heads and deputy mayors can provide an opportunity to share information on open data concepts, joint data sharing, and sensitive/confidential data awareness, while helping you gather feedback and concerns about the process, and get a sense of how easy it may be to work with each agency. The data inventory process can feel daunting, so consider starting with a few targeted agencies based on their understanding and enthusiasm for the project, as well as relevance to strategic priorities or performance management goals.
