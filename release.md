@@ -24,3 +24,4 @@ Stakeholders may include:
 * Research organizations
 * Residents and homebuyers (new, potential and current)
 * Service providers
+* Social services providers
