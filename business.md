@@ -8,4 +8,3 @@
 | *Registrations:* | Entities registered to do business, but that may not be incorporated by the state |
 | *Violations:* |  Violations issued to businesses |
 | *Inspections:* | Restaurant inspections, violations, grades | 
-| **Potential Stakeholders** |
