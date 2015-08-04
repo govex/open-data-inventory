@@ -2,6 +2,7 @@
 
 * [Introduction to Dataset Inventory Guidelines](README.md)
 * [Identify Datasets](identify-datasets.md)
+* [Post Inventory](post.md)
 * [Determine Priority Release Schedule](release.md)
 * [Sample Datasets Index](index.md)
 * [Business](business.md)
