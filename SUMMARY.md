@@ -2,7 +2,7 @@
 
 * [Introduction to Dataset Inventory Guidelines](README.md)
 * [Identify Datasets](identify-datasets.md)
-* [Determine Release Schedule](release.md)
+* [Determine Priority Release Schedule](release.md)
 * [Sample Datasets Index](index.md)
 * [Business](business.md)
 * [Education](education.md)
