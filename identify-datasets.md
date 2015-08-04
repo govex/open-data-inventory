@@ -1,4 +1,4 @@
-Step 1. Identify Datasets
+Identify Datasets
 ====
 
 ####Before you begin...
