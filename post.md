@@ -4,7 +4,7 @@ Post Inventory
 Once you have a list of datasets with relevant fields, the next step it to post it on your website, organized by business function or agency. Include details collected in the data inventory template.
 ____
 > ####Example: [City of Chicago Data Dictionary](http://datadictionary.cityofchicago.org/)
-> **Database Detail**
+> #####Database Detail
 | Field | Content |
 | --- | --- |
 | Database Name: |	Congregate Dining Meal Count Application |
