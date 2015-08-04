@@ -24,4 +24,9 @@ The questions below are meant to help agencies think about the data they use in 
 * Used to record a measurement or transaction, and/or provides information on government services, initiatives or resources?
 * Drive lists, tables, graphs, charts, maps, or other visualizations that your department uses?
 
+As you compile your datasets and fill in the
+
+EAse of release
+Frequetncy
+
 **Step 2.** [Post Inventory](post.md)
