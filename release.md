@@ -17,3 +17,9 @@ Stakeholders may include:
 * Relevant local, state and federal agencies
 * Contractors
 * Current and potential developers
+* Service providers
+* Foundations
+* Public health organizations
+* Educational organizations
+* Research organizations
+* Journalists
