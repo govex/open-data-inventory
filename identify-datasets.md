@@ -22,3 +22,5 @@ The questions below are meant to help agencies think about the data they use in 
 * Used for reports on federal, state, or nonprofit grants?
 * Used to record a measurement or transaction, and/or provides information on government services, initiatives or resources?
 * Drive lists, tables, graphs, charts, maps, or other visualizations that your department uses?
+
+**Step 2.** [Post Inventory](post.md)
