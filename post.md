@@ -1,7 +1,7 @@
 Post Inventory
 =======
 
-Once you have a list of datasets with relevant fields, the next step it to post it on your website, organized by business function or agency. Include details collected in the data inventory template.
+Once you have a list of datasets with relevant fields, the next step it to post it on your website, organized by business function or agency. Include details collected in the data inventory template, and indicate which datasets are published, unpublished, and in the pipeline, as well as the methodology by which you determined the release schedule.
 ____
 > ####Example: [City of Chicago Data Dictionary](http://datadictionary.cityofchicago.org/)
 > #####Database Detail
