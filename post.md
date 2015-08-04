@@ -28,7 +28,7 @@ Once you have a list of datasets with relevant fields, the next step it to post 
 
 > Business Functions: [Health & Human Services](http://datadictionary.cityofchicago.org/business_functions.php?business_function_id=6)
 
-> ###A note about sensitivity
+###A note about sensitivity
 Philadelphia's inventory lists all datasets that it uncovers, even those that will never be released due to sensitive content such as Personally Identifiable Information or security concerns. Datasets that are determined to contain sensitive information are listed with the following note: *"Some data sets in this inventory cannot be published as open data. Others could be published after sensitive data is removed (such as personal information)."*
 
 
