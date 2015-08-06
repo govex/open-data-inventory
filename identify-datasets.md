@@ -26,7 +26,7 @@ The questions below are meant to help agencies think about the data they use in 
 
 ####Consider Value, Quality and Availability
 
-As you compile your datasets and fill in the fields, consider developing a measure that captures internal value, quality and availability of each dataset. Below are a series of questions around each. THe questions and responses should be posted in order to explain the criteria for the order of release.
+As you compile your datasets and fill in the fields, consider developing a measure that captures internal value, quality and availability of each dataset. Below are a series of questions around each. The questions and responses should be posted in order to explain the criteria for the order of release.
 
 **Dataset Priority Questions: Value**
 
@@ -42,7 +42,7 @@ As you compile your datasets and fill in the fields, consider developing a measu
 
 * Does the data have depth and breadth of years of coverage?
 * Does the data have accompanying metadata and a data dictionary?
-* Is the data available at the most granular level?
+* Is the data available at its most useful granular level?
 * Is the data accurate/complete?
 
 **Dataset Priority Questions: Readiness/Availability**
