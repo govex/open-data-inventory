@@ -1,7 +1,7 @@
 Determine Priority Release Schedule
 =======
 
-Once you have your list of datasets, determine the schedule for releasing datasets based on a prioritization process that incorporates public feedback. Focusing on the customer service experience of residents ensures that you are releasing what the public cares about. Rather than releasing data that you think is that the public would be interested in or might be important, why not ask them!
+Once you have your list of datasets, determine the schedule for releasing datasets based on a prioritization process that incorporates public feedback. Focusing on the customer service experience of residents ensures that you are releasing what the public cares about. Rather than releasing data that you think the public would be interested in, why not ask them!
 
 Philadelphia has built public engagement into its [open data inventory website](http://cityofphiladelphia.github.io/slash-data/inventory/?_ga=1.247933893.332098523.1435580102), which is a detailed list of every dataset that exists wihin city government. Beside each dataset is a section in which the public can add comments. The data services team takes input to each department, which helps them to make informed prioritization decisions on which datasets to release first.
 
