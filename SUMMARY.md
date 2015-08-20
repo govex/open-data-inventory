@@ -19,4 +19,4 @@
 * [Social Services](social-services.md)
 * [Transportation](transportation.md)
 * [Utilities](utilities.md)
-* [Appendix A](appendix-A.md)
+* [Appendix A](appendix-a.md)
