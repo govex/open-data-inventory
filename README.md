@@ -6,5 +6,5 @@ These guidelines are meant to help cities identify and release high quality data
 The Center for Government Excellence recomends the following steps.
 
 * **Step 1.** [Identify Datasets](identify-datasets.md)
-* **Step 1.** [Post Inventory](post.md)
+* **Step 2.** [Post Inventory](post.md)
 * **Step 3.** [Determine Release Schedule](release.md)
