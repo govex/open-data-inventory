@@ -1,3 +1,7 @@
+NOTE: This guide has been deprecated and replaced with a newer one at [http://labs.centerforgov.org/data-governance/data-inventory/](http://labs.centerforgov.org/data-governance/data-inventory/)
+
+
+
 Introduction to Dataset Inventory Guidelines
 =======
 
