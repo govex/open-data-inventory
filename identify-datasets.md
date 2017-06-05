@@ -10,7 +10,7 @@ Ask each department to designate a point of contact (POC). You may wish to ident
 
 _____
 ####Next, unpack your data assests
-To begin, you may wish to use the [sample datasets](index.md) in subsequent chapters to determine whether you have data in the categories that relate to your strategic priorities, performance management goals, and departmental mission.
+To begin, you may wish to use the [sample datasets](index.md) in subsequent chapters to determine whether you have data in the categories that relate to your strategic priorities, performance management goals, and departmental mission. Contacting a Records Management department or individual for a deep sense of what is currently stored as many records may now be 'paperless' and more accessible. Retention schedules can include "digital assets" that a Records Professional would be aware of. 
 
 The questions below are meant to help agencies think about the data they use in their day to day jobs, and the information that is critical to their processes, so that they can list the datasets that they use.
 
