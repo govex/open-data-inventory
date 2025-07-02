@@ -1,11 +1,11 @@
 # Public Safety
 
-| Name | Description | Examples |
-| --- | --- | --- |
-| *Alerts* |	Emergency community notifications such as evacuations, amber/silver alerts, severe weather, etc. | | [San Francisco Crime Mapping](http://www.crimemapping.com/map/ca/sanfrancisco) |
-| *Collisions* |	Moving vehicle collisions such as cars, trucks, buses, trains, trams, aircraft, etc. |
-| *Crimes* |	Crimes reported to law enforcement including assaults, homicides, thefts, etc. | [NYPD Crime Statistics](http://www.nyc.gov/html/nypd/html/crime_prevention/crime_statistics.shtml) |
-| *Evacuations* |	Zones, routes, shelters, meeting points for emergency events such as hurricanes, blizzards, tornados, floods, earthquakes, etc. |
-| *Fires* |	Working fires or other incidents which require coordinated responses from fire departments, including structural fires, hazardous material conditions, mutual aid calls, injuries, etc. |
-| *Incidents* |	Events that may require significantly coordinated response from multiple government agencies, such as oil spills, structural collapses, severe weather, etc. |  [SeaStat](https://data.seattle.gov/) |
-| *Notifications* |	Non-emergency community notifications such as traffic warnings, awareness campaigns, etc. |
+| Name            | Description                                                                                                                                                                             | Examples                                                                                                    |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| _Alerts_        | Emergency community notifications such as evacuations, amber/silver alerts, severe weather, etc.                                                                                        |                                                                                                             |
+| _Collisions_    | Moving vehicle collisions such as cars, trucks, buses, trains, trams, aircraft, etc.                                                                                                    |                                                                                                             |
+| _Crimes_        | Crimes reported to law enforcement including assaults, homicides, thefts, etc.                                                                                                          | [NYPD Crime Statistics](https://www.nyc.gov/site/nypd/stats/crime-statistics/crime-statistics-landing.page) |
+| _Evacuations_   | Zones, routes, shelters, meeting points for emergency events such as hurricanes, blizzards, tornados, floods, earthquakes, etc.                                                         |                                                                                                             |
+| _Fires_         | Working fires or other incidents which require coordinated responses from fire departments, including structural fires, hazardous material conditions, mutual aid calls, injuries, etc. |                                                                                                             |
+| _Incidents_     | Events that may require significantly coordinated response from multiple government agencies, such as oil spills, structural collapses, severe weather, etc.                            | [SeaStat](https://data.seattle.gov/)                                                                        |
+| _Notifications_ | Non-emergency community notifications such as traffic warnings, awareness campaigns, etc.                                                                                               |                                                                                                             |
