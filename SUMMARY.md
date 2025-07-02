@@ -1,10 +1,10 @@
-# Summary
+# Table of contents
 
 * [Introduction to Dataset Inventory Guidelines](README.md)
 * [Identify Datasets](identify-datasets.md)
 * [Post Inventory](post.md)
 * [Determine Priority Release Schedule](release.md)
-* [Sample Datasets Index](index.md)
+* [Sample Datasets Index](sample-datasets-index.md)
 * [Business](business.md)
 * [Education](education.md)
 * [Elections](elections.md)
